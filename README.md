@@ -1,1 +1,1 @@
-# MM-ComfyUI-nodes
+# mm-comfyui-nodes
